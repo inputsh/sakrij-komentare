@@ -1,0 +1,15 @@
+.newsitem.newshor > a > .list-inline.list-newsinfo li:first-child {
+  display: none;
+}
+
+.article-shares > .list-inline.list-newsinfo li:last-child {
+  display: none;
+}
+
+#show {
+  display: none;
+}
+
+#artcomments {
+  display: none;
+}

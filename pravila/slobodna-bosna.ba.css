@@ -1,0 +1,7 @@
+#comments {
+  display: none;
+}
+
+.info li:last-child {
+  display: none;
+}

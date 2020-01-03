@@ -1,0 +1,15 @@
+.brojKomentara {
+  display: none !important;
+}
+
+.brojShareova {
+  width: 100% !important;
+}
+
+.komentariCont {
+  display: none;
+}
+
+.comments {
+  display: none !important;
+}
