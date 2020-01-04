@@ -1,0 +1,5 @@
+.card__comments_wrap,
+.article__comments_number,
+.thread--thread__teaser .thread--th_vecernji {
+  display: none !important;
+}

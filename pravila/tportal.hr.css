@@ -1,0 +1,8 @@
+.fb-comments {
+  display: none !important;
+}
+
+.socialLinksType1 > li > .comments {
+  display: none !important;
+  min-width: 0px !important;
+}

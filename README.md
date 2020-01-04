@@ -36,11 +36,23 @@ Iz Crne Gore:
 * rtcg.me
 * vijesti.me
 
+Iz Hrvatske:
+
+* 24sata.hr
+* bug.hr
+* dnevnik.hr
+* index.hr
+* jutarnji.hr
+* kamenjar.com
+* lika-online.com
+* narod.hr
+* net.hr
+* slobodnadalmacija.hr
+* telegram.hr
+* tportal.hr
+* vecernji.hr
+
 Iz Srbije:
 
 * blic.rs
 * kurir.rs
-
-## Poznati bug-ovi
-
-* **slobodna.bosna.ba:** Iako su komentari uklonjeni, i dalje se vidi njihov broj u sidebar-u, kao i u naslovima na početnoj stranici.

@@ -35,6 +35,10 @@
       "css": ["pravila/bljesak.info.css"]
     },
     {
+      "matches": ["*://*.bug.hr/*"],
+      "css": ["pravila/bug.hr.css"]
+    },
+    {
       "matches": ["*://*.cdm.me/*"],
       "css": ["pravila/cdm.me.css"]
     },
@@ -43,8 +47,24 @@
       "css": ["pravila/dnevnik.ba.css"]
     },
     {
+      "matches": ["*://dnevnik.hr/*"],
+      "css": ["pravila/dnevnik.hr.css"]
+    },
+    {
       "matches": ["*://ekskluziva.ba/*"],
       "css": ["pravila/ekskluziva.ba.css"]
+    },
+    {
+      "matches": ["*://*.index.hr/*"],
+      "css": ["pravila/index.hr.css"]
+    },
+    {
+      "matches": ["*://*.jutarnji.hr/*"],
+      "css": ["pravila/jutarnji.hr.css"]
+    },
+    {
+      "matches": ["*://kamenjar.com/*"],
+      "css": ["pravila/kamenjar.com.css"]
     },
     {
       "matches": ["*://*.klix.ba/*"],
@@ -53,6 +73,18 @@
     {
       "matches": ["*://*.kurir.rs/*"],
       "css": ["pravila/kurir.rs.css"]
+    },
+    {
+      "matches": ["*://*.lika-online.com/*"],
+      "css": ["pravila/lika-online.com.css"]
+    },
+    {
+      "matches": ["*://narod.hr/*"],
+      "css": ["pravila/narod.hr.css"]
+    },
+    {
+      "matches": ["*://net.hr/*"],
+      "css": ["pravila/net.hr.css"]
     },
     {
       "matches": ["*://*.nezavisne.com/*"],
@@ -83,8 +115,24 @@
       "css": ["pravila/slobodna-bosna.ba.css"]
     },
     {
+      "matches": ["*://slobodnadalmacija.hr/*"],
+      "css": ["pravila/slobodnadalmacija.hr.css"]
+    },
+    {
       "matches": ["*://sportsport.ba/*"],
       "css": ["pravila/sportsport.ba.css"]
+    },
+    {
+      "matches": ["*://*.telegram.hr/*"],
+      "css": ["pravila/telegram.hr.css"]
+    },
+    {
+      "matches": ["*://*.tportal.hr/*"],
+      "css": ["pravila/tportal.hr.css"]
+    },
+    {
+      "matches": ["*://*.vecernji.hr/*"],
+      "css": ["pravila/vecernji.hr.css"]
     },
     {
       "matches": ["*://vijesti.ba/*"],

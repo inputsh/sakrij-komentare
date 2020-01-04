@@ -1,0 +1,4 @@
+.article__comment_box,
+.comments .comments__article_teaser {
+  display: none !important;
+}

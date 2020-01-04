@@ -1,0 +1,5 @@
+.post-listing__comments,
+.post-full__comments,
+.main-content > aside {
+  display: none !important;
+}

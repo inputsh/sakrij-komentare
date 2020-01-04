@@ -1,0 +1,7 @@
+ul.o-list-inline.side-gadgets__tabs--novosti.ui-tabs-nav.ui-helper-reset.ui-helper-clearfix.ui-widget-header.ui-corner-all > li:last-child {
+  display: none !important;
+}
+
+#facebook {
+  display: none !important;
+}

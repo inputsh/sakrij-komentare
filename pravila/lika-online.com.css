@@ -1,0 +1,5 @@
+.td-post-comments,
+.td-module-comments,
+#comments {
+  display: none !important;
+}
