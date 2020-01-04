@@ -13,3 +13,11 @@
 .comments {
   display: none !important;
 }
+
+.share.km {
+  display: none !important;
+}
+
+.share.fb {
+  float: left !important;
+}

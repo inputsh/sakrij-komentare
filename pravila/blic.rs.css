@@ -1,0 +1,15 @@
+.comment__button {
+    display: none !important;
+}
+
+div#app {
+  display: none !important;
+}
+
+.article-comments {
+  display: none !important;
+}
+
+.article-info > .comment {
+  display: none !important;
+}

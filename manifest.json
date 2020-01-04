@@ -13,6 +13,10 @@
 
   "content_scripts": [
     {
+      "matches": ["*://avaz.ba/*"],
+      "css": ["pravila/avaz.ba.css"]
+    },
+    {
       "matches": ["*://*.6yka.com/*"],
       "css": ["pravila/6yka.com.css"]
     },
@@ -21,12 +25,24 @@
       "css": ["pravila/ba.n1info.com.css"]
     },
     {
+      "matches": ["*://*.blic.rs/*"],
+      "css": ["pravila/blic.rs.css"]
+    },
+    {
+      "matches": ["*://*.bljesak.info/*"],
+      "css": ["pravila/bljesak.info.css"]
+    },
+    {
       "matches": ["*://*.dnevnik.ba/*"],
       "css": ["pravila/dnevnik.ba.css"]
     },
     {
       "matches": ["*://*.klix.ba/*"],
       "css": ["pravila/klix.ba.css"]
+    },
+    {
+      "matches": ["*://*.kurir.rs/*"],
+      "css": ["pravila/kurir.rs.css"]
     },
     {
       "matches": ["*://*.radiosarajevo.ba/*"],
