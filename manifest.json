@@ -1,14 +1,16 @@
 {
   "manifest_version": 2,
   "name": "Sakrij komentare",
-  "version": "0.1",
+  "version": "0.2",
 
   "description": "Firefox add-on kojim možete sakriti komentare na popularnim domaćim news portalima",
   "homepage_url": "https://input.sh/sakrij-komentare",
 
   "icons": {
     "48": "ikone/48.png",
-    "96": "ikone/96.png"
+    "96": "ikone/96.png",
+    "256": "ikone/256.png",
+    "512": "ikone/512.png"
   },
 
   "content_scripts": [
@@ -41,12 +43,24 @@
       "css": ["pravila/dnevnik.ba.css"]
     },
     {
+      "matches": ["*://ekskluziva.ba/*"],
+      "css": ["pravila/ekskluziva.ba.css"]
+    },
+    {
       "matches": ["*://*.klix.ba/*"],
       "css": ["pravila/klix.ba.css"]
     },
     {
       "matches": ["*://*.kurir.rs/*"],
       "css": ["pravila/kurir.rs.css"]
+    },
+    {
+      "matches": ["*://*.nezavisne.com/*"],
+      "css": ["pravila/nezavisne.com.css"]
+    },
+    {
+      "matches": ["*://*.oslobodjenje.ba/*"],
+      "css": ["pravila/oslobodjenje.ba.css"]
     },
     {
       "matches": ["*://portalanalitika.me/*"],

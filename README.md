@@ -19,7 +19,10 @@ Iz Bosne i Hercegovine:
 * ba.n1info.com
 * bljesak.info
 * dnevnik.ba
+* ekskluziva.ba
 * klix.ba
+* nezavisne.com
+* oslobodjenje.ba
 * radiosarajevo.ba
 * rtvbn.com
 * slobodna-bosna.ba
@@ -31,12 +34,12 @@ Iz Crne Gore:
 * cdm.me
 * portalanalitika.me
 * rtcg.me
+* vijesti.me
 
 Iz Srbije:
 
 * blic.rs
 * kurir.rs
-
 
 ## Poznati bug-ovi
 

@@ -1,0 +1,7 @@
+#top > article > div:nth-child(1) > div > div.col-lg-8.col-md-8.col-sm-12.col-xs-12 > article > div > div.col-lg-10 > div:nth-child(5) {
+  display: none !important;
+}
+
+#top > article > div:nth-child(1) > div > div.col-lg-8.col-md-8.col-sm-12.col-xs-12 > article > div > div.col-lg-10 > div:nth-child(6) {
+  display: none !important;
+}
