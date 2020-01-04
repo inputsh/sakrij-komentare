@@ -1,0 +1,8 @@
+#newsTabs > div.newsTabs.grid_8 > ul > li:nth-child(3),
+.loadComments .topCommentsLink,
+.commentsBar,
+#messages,
+.commentsForm,
+.commentsList {
+  display: none !important;
+}

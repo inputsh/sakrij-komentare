@@ -1,0 +1,6 @@
+.comments-number,
+.important-news .theme2 > ul > li > h4 > span,
+span.comments
+.article-footer {
+  display: none !important;
+}

@@ -15,16 +15,28 @@
 
   "content_scripts": [
     {
-      "matches": ["*://avaz.ba/*"],
-      "css": ["pravila/avaz.ba.css"]
-    },
-    {
       "matches": ["*://*.6yka.com/*"],
       "css": ["pravila/6yka.com.css"]
     },
     {
-      "matches": ["*://ba.n1info.com/*"],
-      "css": ["pravila/ba.n1info.com.css"]
+      "matches": ["*://*.24sata.hr/*"],
+      "css": ["pravila/24sata.hr.css"]
+    },
+    {
+      "matches": ["*://*.alo.rs/*"],
+      "css": ["pravila/alo.rs.css"]
+    },
+    {
+      "matches": ["*://avaz.ba/*"],
+      "css": ["pravila/avaz.ba.css"]
+    },
+    {
+      "matches": ["*://*.b92.net/*"],
+      "css": ["pravila/b92.net.css"]
+    },
+    {
+      "matches": ["*://*.n1info.com/*"],
+      "css": ["pravila/n1info.com.css"]
     },
     {
       "matches": ["*://*.blic.rs/*"],
@@ -55,8 +67,16 @@
       "css": ["pravila/ekskluziva.ba.css"]
     },
     {
+      "matches": ["*://*.espreso.rs/*"],
+      "css": ["pravila/espreso.rs.css"]
+    },
+    {
       "matches": ["*://*.index.hr/*"],
       "css": ["pravila/index.hr.css"]
+    },
+    {
+      "matches": ["*://informer.rs/*"],
+      "css": ["pravila/informer.rs.css"]
     },
     {
       "matches": ["*://*.jutarnji.hr/*"],
@@ -79,6 +99,10 @@
       "css": ["pravila/lika-online.com.css"]
     },
     {
+      "matches": ["*://mondo.rs/*"],
+      "css": ["pravila/mondo.rs.css"]
+    },
+    {
       "matches": ["*://narod.hr/*"],
       "css": ["pravila/narod.hr.css"]
     },
@@ -89,6 +113,10 @@
     {
       "matches": ["*://*.nezavisne.com/*"],
       "css": ["pravila/nezavisne.com.css"]
+    },
+    {
+      "matches": ["*://*.novosti.rs/*"],
+      "css": ["pravila/novosti.rs.css"]
     },
     {
       "matches": ["*://*.oslobodjenje.ba/*"],
@@ -107,6 +135,10 @@
       "css": ["pravila/rtcg.me.css"]
     },
     {
+      "matches": ["*://*.rts.rs/*"],
+      "css": ["pravila/rts.rs.css"]
+    },
+    {
       "matches": ["*://*.rtvbn.com/*"],
       "css": ["pravila/rtvbn.com.css"]
     },
@@ -121,6 +153,14 @@
     {
       "matches": ["*://sportsport.ba/*"],
       "css": ["pravila/sportsport.ba.css"]
+    },
+    {
+      "matches": ["*://*.srbijadanas.com/*"],
+      "css": ["pravila/srbijadanas.com.css"]
+    },
+    {
+      "matches": ["*://telegraf.rs/*"],
+      "css": ["pravila/telegraf.rs.css"]
     },
     {
       "matches": ["*://*.telegram.hr/*"],

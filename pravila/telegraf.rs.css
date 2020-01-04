@@ -1,0 +1,5 @@
+.comment-number,
+.timeline-tabs-wrapper > li:last-child,
+#comments-ins {
+  display: none !important;
+}
