@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Sakrij komentare",
-  "version": "0.2",
+  "version": "0.3",
 
   "description": "Firefox add-on kojim možete sakriti komentare na popularnim domaćim news portalima",
   "homepage_url": "https://input.sh/sakrij-komentare",
