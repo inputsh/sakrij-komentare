@@ -1,0 +1,7 @@
+.c-icon-and-comment,
+.comment-number-wrapper,
+.number-of-comments,
+#comments-in-story,
+.dropDown .menu .next-level > ul.list > li:nth-child(2) {
+  display: none !important;
+}

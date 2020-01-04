@@ -1,0 +1,6 @@
+.boxMain__details > ul > li:last-child,
+.socialIcons .mtb10 .clearfix .socialIconsWrap > div:last-child,
+#comments,
+.comments {
+  display: none !important;
+}

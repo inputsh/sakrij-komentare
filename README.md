@@ -1,6 +1,6 @@
 <h1 align=center>Sakrij komentare</h1>
 
-<p align=center>Firefox add-on kojim možete da sakrijete komentare na popularnim domaćim news sajtovima.</p>
+<p align=center>Firefox add-on koji sakriva komentare na 40+ domaćih portala.</p>
 
 <p align=center>
   <img style="" alt="ikona" src="ikone/256.png">
@@ -8,7 +8,7 @@
 
 ## Kako radi
 
-Ova web ekstenzija dodaje nekoliko CSS pravila na domaće portale kako bi sakrila komentare nad njima.
+Ova web ekstenzija dodaje nekoliko CSS pravila na domaće portale kako bi sakrila komentare.
 
 ## Podržani portali
 
@@ -41,6 +41,7 @@ Iz Hrvatske:
 * 24sata.hr
 * bug.hr
 * dnevnik.hr
+* hr.n1info.com
 * index.hr
 * jutarnji.hr
 * kamenjar.com
@@ -54,5 +55,15 @@ Iz Hrvatske:
 
 Iz Srbije:
 
+* alo.rs
+* b92.rs
 * blic.rs
+* espreso.rs
+* informer.rs
 * kurir.rs
+* mondo.rs
+* novosti.rs
+* rs.n1info.com
+* rts.rs
+* srbijadanas.com
+* telegraf.rs

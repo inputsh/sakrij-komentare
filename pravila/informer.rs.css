@@ -1,0 +1,6 @@
+.nav .nav-tabs .nav-justified > a:last-child,
+#all-comments,
+.nav.nav-tabs.nav-justified > a:last-child,
+.leave-comment {
+  display: none !important
+}
