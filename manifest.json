@@ -33,6 +33,10 @@
       "css": ["pravila/bljesak.info.css"]
     },
     {
+      "matches": ["*://*.cdm.me/*"],
+      "css": ["pravila/cdm.me.css"]
+    },
+    {
       "matches": ["*://*.dnevnik.ba/*"],
       "css": ["pravila/dnevnik.ba.css"]
     },
@@ -45,8 +49,16 @@
       "css": ["pravila/kurir.rs.css"]
     },
     {
+      "matches": ["*://portalanalitika.me/*"],
+      "css": ["pravila/portalanalitika.me.css"]
+    },
+    {
       "matches": ["*://*.radiosarajevo.ba/*"],
       "css": ["pravila/radiosarajevo.ba.css"]
+    },
+    {
+      "matches": ["*://rtcg.me/*"],
+      "css": ["pravila/rtcg.me.css"]
     },
     {
       "matches": ["*://*.rtvbn.com/*"],
@@ -63,6 +75,10 @@
     {
       "matches": ["*://vijesti.ba/*"],
       "css": ["pravila/vijesti.ba.css"]
+    },
+    {
+      "matches": ["*://*.vijesti.me/*"],
+      "css": ["pravila/vijesti.me.css"]
     }
   ]
 

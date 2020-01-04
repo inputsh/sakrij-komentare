@@ -1,0 +1,7 @@
+.articleMetadata__comments {
+  display: none !important;
+}
+
+div#talk-embed-stream-container {
+  display: none !important;
+}

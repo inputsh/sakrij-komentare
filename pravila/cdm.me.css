@@ -1,0 +1,11 @@
+.meta-item.herald-comments {
+  display: none !important;
+}
+
+div#comments {
+  display: none !important;
+}
+
+div.comments {
+  display: none !important;
+}

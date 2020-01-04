@@ -1,0 +1,19 @@
+.commentCount {
+  display: none !important;
+}
+
+.releaseUpdateTime {
+  border-right: none !important;
+}
+
+.commentsHolder {
+  display: none !important;
+}
+
+form#sendCommentForm {
+  display: none !important;
+}
+
+span.comments {
+  display: none !important;
+}
